@@ -38,4 +38,8 @@ dependencies {
 
 tasks.named('test') {
     useJUnitPlatform()
+}
+
+springBoot {
+    mainClass = 'com.noteapp.NoteAppApplication'
 } 

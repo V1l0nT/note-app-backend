@@ -1,8 +1,11 @@
+.gradle
+.git
+frontend
+README.md
+Dockerfile
+.dockerignore
 build/
-.gradle/
 src/
 *.iml
 *.md
-Dockerfile
-docker-compose.yml
-frontend/ 
+docker-compose.yml 
