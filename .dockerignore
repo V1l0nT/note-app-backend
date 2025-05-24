@@ -5,7 +5,6 @@ README.md
 Dockerfile
 .dockerignore
 build/
-src/
 *.iml
 *.md
 docker-compose.yml 
